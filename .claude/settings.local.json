@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"/c/Users/anshu/OneDrive/Desktop/Antigravity Agents/rae-media-agent\" init)"
+    ]
+  }
+}
