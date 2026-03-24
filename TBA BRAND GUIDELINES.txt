@@ -1,0 +1,786 @@
+# TBA BRAND GUIDELINES
+## Theropod Basketball Association — Corporate & Marketing Identity Playbook
+### Version 1.0 | For Internal & External Use | AI Agent Knowledge Base Source
+
+---
+
+> *"Millions of years ago, the Spinosaurus didn't wait to be at the top of the food chain. It evolved to get there. So did you."*
+
+---
+
+## TABLE OF CONTENTS
+
+1. [Brand Foundation](#1-brand-foundation)
+2. [Brand Story & Narrative](#2-brand-story--narrative)
+3. [Character System — The Mascot Roster](#3-character-system--the-mascot-roster)
+4. [Visual Identity](#4-visual-identity)
+5. [Tone of Voice & Writing Style](#5-tone-of-voice--writing-style)
+6. [Channel Playbook](#6-channel-playbook)
+7. [Internal Communications](#7-internal-communications)
+8. [External Communications](#8-external-communications)
+9. [LinkedIn Guidelines](#9-linkedin-guidelines)
+10. [WhatsApp / Messaging Guidelines](#10-whatsapp--messaging-guidelines)
+11. [Email Guidelines](#11-email-guidelines)
+12. [What We Never Do](#12-what-we-never-do)
+13. [Glossary of Brand Terms](#13-glossary-of-brand-terms)
+14. [AI Agent Prompt Guidance](#14-ai-agent-prompt-guidance)
+
+---
+
+## 1. BRAND FOUNDATION
+
+### 1.1 — Brand Name
+**Full Name:** Theropod Basketball Association  
+**Short Name:** TBA  
+**Stylised:** TBA. *(the period is intentional — it signals finality, dominance — as in: the matter is settled)*  
+**Never write as:** The TBA, T.B.A., tba
+
+### 1.2 — Brand Mission
+> To engineer performance footwear that turns athletes into apex predators — on the court and in their mindset.
+
+### 1.3 — Brand Vision
+> A world where every serious baller is equipped to dominate — where the court is your territory, and you defend it.
+
+### 1.4 — Brand Values
+
+| Value | What It Means for TBA |
+|---|---|
+| **Apex Performance** | Everything we make is engineered to be the best. No compromise, no excuses. |
+| **Earned Dominance** | You don't get to the top by accident. TBA is for athletes who put in the work. |
+| **Predator Mentality** | Attack the game. Attack improvement. Attack complacency. |
+| **Evolved Design** | Like the species we draw from, we evolve — innovation is survival. |
+| **Court is Territory** | The game is not just physical. It's territorial, psychological, strategic. |
+
+### 1.5 — Brand Positioning Statement
+**For** serious basketball athletes who demand peak performance from every piece of gear, **TBA** is the footwear brand that **channels the raw, engineered dominance of prehistoric apex predators** — because **real ballers don't compete to participate. They compete to extinct the competition.**
+
+### 1.6 — Taglines
+
+**Primary Tagline:**  
+> **EVOLVED TO DOMINATE.**
+
+**Secondary Taglines (use contextually):**
+- *"The apex is earned, not given."*
+- *"Your court. Your territory. Your era."*
+- *"They went extinct. You won't."*
+- *"Built from the bones of something unstoppable."*
+- *"66 million years in the making."*
+
+---
+
+## 2. BRAND STORY & NARRATIVE
+
+### 2.1 — The Origin Story (Long Form)
+*Use for website About pages, press kits, investor decks, and onboarding materials.*
+
+---
+
+The Spinosaurus didn't look like what you'd expect from the largest carnivore that ever lived. It wasn't built like its cousins. It hunted differently. Moved differently. Evolved to survive — and to dominate — in ways no one anticipated.
+
+That's TBA.
+
+We didn't set out to make another basketball shoe. We set out to rethink what a basketball shoe could be — from the sole up, from the science out, from the court into the culture.
+
+TBA was born from one belief: **that serious athletes deserve gear as evolved as they are.** Not lifestyle. Not hype. Not a logo slapped on foam. Performance architecture. Predator engineering.
+
+Our primary inspiration is the Spinosaurus — the apex of apex. A theropod that redefined what dominance looks like. Our antagonist is the Therizinosaurus — arms like blades, slow as doubt, dangerous if you let it get close. It is every obstacle. Every opponent who slept on you. Every coach who cut you.
+
+You are the Spinosaurus.
+
+The Therizinosaurus is everything standing between you and the game you're supposed to play.
+
+**TBA exists to make sure you're ready.**
+
+---
+
+### 2.2 — The Origin Story (Short Form)
+*Use for social bios, email footers, one-pagers, and ad copy.*
+
+---
+
+TBA makes performance basketball footwear for athletes who operate at the top of the food chain. Inspired by the Spinosaurus — the most dominant predator to ever walk the earth — and engineered to outlast everything standing in your way.
+
+**Evolved to Dominate.**
+
+---
+
+### 2.3 — The Narrative Tension (Core Brand Conflict)
+Every great brand has conflict. TBA's is primal:
+
+**The Hero:** *You* — the serious baller. Channeling the Spinosaurus. Dominant, evolved, relentless.  
+**The Antagonist:** The Therizinosaurus — representing the opposition. Slow-burning, methodical, armed. Your opponent. Your self-doubt. Your ceiling.  
+**The Stakes:** Territory. Legacy. The game.  
+**The Resolution:** With TBA on your feet, you are the apex predator. Always.
+
+This narrative tension should subtly underpin all brand communications — there is always an obstacle to overcome. TBA is always the weapon you use to overcome it.
+
+---
+
+## 3. CHARACTER SYSTEM — THE MASCOT ROSTER
+
+### 3.1 — SPINO (Primary Mascot)
+**Species:** *Spinosaurus aegyptiacus*  
+**Role:** Hero. The embodiment of TBA. The athlete's spirit animal.  
+**Personality:** Dominant, relentless, intelligent, composed under pressure. Not reckless — apex predators are never reckless. They're *precise.*  
+**Visual Signature:** Towering dorsal sail silhouette. Streamlined jaw. Built for both water and land — versatile, adaptive, unstoppable.  
+**Brand Voice When Spino Speaks:** Declarative. Short sentences. No hedging.
+
+**Example Spino-Voice Copy:**
+> *"I don't wait for my moment. I create it."*  
+> *"The court is mine. Every time. No exceptions."*  
+> *"Faster than you expected. More than you prepared for."*
+
+**When to deploy Spino:**
+- Hero campaigns
+- Product launches
+- Performance marketing
+- Athlete partnerships
+- Motivation / mindset content
+
+---
+
+### 3.2 — THERI (Secondary Mascot)
+**Species:** *Therizinosaurus cheloniformis*  
+**Role:** Antagonist. The obstacle. The doubt. The opponent.  
+**Personality:** Slow but dangerous. Underestimated by fools. Armed with enormous claws. Patient. Represents everything that can beat you if you come unprepared.  
+**Visual Signature:** Enormous curved claws (the longest claws in natural history — up to 1 metre). Stocky. Unsettling stillness.  
+**Brand Voice When Theri Is Referenced:** Ominous. Second-person threat framing. Used to create urgency.
+
+**Example Theri-Voice Copy (copy written *about* Theri, not *by* Theri):**
+> *"It's been waiting. It knows your weaknesses. Are you ready?"*  
+> *"The claws don't care how good you think you are."*  
+> *"Theri doesn't rush. It just waits for you to make a mistake."*
+
+**When to deploy Theri:**
+- Rivalry / competition content
+- Pre-game / matchday messaging
+- "Are you ready?" narrative hooks
+- Seasonal "challenger" campaigns
+- Product storytelling around durability, defence, protection
+
+---
+
+### 3.3 — Character Relationship Rules
+- Spino and Theri should **never be shown as equal** in brand materials. Spino is always ascendant.
+- Theri is a foil, not a villain in the cartoonish sense — it represents *real* challenge, and should be treated with respect as a worthy obstacle.
+- Do not use Theri in humorous or mocking contexts — this dilutes the seriousness of the brand's competitive narrative.
+- Both characters should feel **grounded in performance** — this is not a children's brand. Keep the dinosaur narrative serious and aspirational.
+
+---
+
+## 4. VISUAL IDENTITY
+
+### 4.1 — Colour Palette
+
+TBA's palette is anchored in two worlds: **the prehistoric** (deep, raw, geological) and **the electric** (neon, vivid, alive). The contrast between them is the brand's visual heartbeat.
+
+---
+
+#### PRIMARY PALETTE
+
+| Name | Hex | RGB | Usage |
+|---|---|---|---|
+| **Fossil Black** | `#0A0A0A` | 10, 10, 10 | Primary background, dominant UI, text on light |
+| **Tar Pit** | `#1C1C2E` | 28, 28, 46 | Secondary background, deep surfaces, cards |
+| **Bone White** | `#F2EDE4` | 242, 237, 228 | Primary text on dark, logo on dark backgrounds |
+| **Spino Sail — Neon Amber** | `#FF6B00` | 255, 107, 0 | Hero accent, CTAs, primary highlights, Spino brand colour |
+| **Bioluminescent Teal** | `#00FFD1` | 0, 255, 209 | Secondary accent, tech/performance features, data callouts |
+
+---
+
+#### SECONDARY PALETTE
+
+| Name | Hex | RGB | Usage |
+|---|---|---|---|
+| **Acid Green** | `#AAFF00` | 170, 255, 0 | Limited use — high-impact moments, special editions |
+| **Theri Claw — Blood Amber** | `#C43B00` | 196, 59, 0 | Antagonist/Theri storytelling, warning states, rivalry content |
+| **Fossil Grey** | `#3A3A3A` | 58, 58, 58 | Supporting text, dividers, secondary UI elements |
+| **Meteor Dust** | `#8C8078` | 140, 128, 120 | Tertiary text, captions, timestamps |
+
+---
+
+#### COLOUR USAGE RULES
+- **Fossil Black + Neon Amber** is the flagship combination. It should be the most recognisable colour pairing in all communications.
+- **Bioluminescent Teal** is the technology/performance colour — use it when referencing product specs, cushioning systems, traction tech, and innovation.
+- **Acid Green** is reserved for limited-edition drops, collab announcements, and high-impact campaign moments. Do not use it as a regular accent.
+- **Theri Claw / Blood Amber** should only appear in rivalry or antagonist-themed content. Never use it as a primary brand colour.
+- **Never use white (#FFFFFF)** — always use Bone White `#F2EDE4` for a warmer, less clinical feel.
+- **Minimum contrast ratio:** 4.5:1 for all text. Neon Amber on Fossil Black passes. Teal on Fossil Black passes. Bone White on Fossil Black passes.
+
+---
+
+### 4.2 — Typography
+
+#### Primary Typeface: **Neue Haas Grotesk Display** (or substitute: **Inter**, **Barlow Condensed**)
+- Used for: Headlines, product names, campaign headers
+- Weight: Bold (700) and Black (900) exclusively for headlines
+- Style: All caps for primary headlines. Title case for sub-heads.
+
+#### Secondary Typeface: **Barlow Condensed**
+- Used for: Sub-headlines, callouts, pull quotes, shoe names
+- Weight: SemiBold (600) and Bold (700)
+- Style: All caps, condensed — this gives the "jersey" feel without being cliché
+
+#### Body Typeface: **Inter** (or substitute: **DM Sans**)
+- Used for: Body copy, captions, descriptions, email text
+- Weight: Regular (400) and Medium (500)
+- Style: Sentence case. Left-aligned in all body copy.
+
+#### Typography Rules:
+- **Never centre-align body copy.** Centre alignment is for short callouts and display moments only.
+- Headline type should feel **heavy and inevitable** — like a predator that's already won.
+- Never use decorative or serif typefaces unless it is a specifically approved heritage/archival context.
+- Tracking (letter-spacing): Headlines at -1 to -2px. Body copy at 0. Callouts/all-caps subheadings at +50 to +100 tracking.
+
+---
+
+### 4.3 — Logo Usage
+
+**Primary Logo:** "TBA." wordmark — all caps, Neue Haas Grotesk Black, with the intentional full stop.  
+**Secondary Logo:** Spino sail silhouette icon (standalone, used when wordmark is impractical — app icons, embossing, co-brand lockups).  
+**Combination Mark:** Spino sail icon left-of / above the wordmark.
+
+**Logo Clear Space:** Minimum clear space equal to the height of the "T" character on all sides.
+
+**Approved Logo Colourways:**
+- Bone White on Fossil Black (primary)
+- Neon Amber on Fossil Black (hero / campaign)
+- Fossil Black on Bone White (light context)
+- Bone White on Neon Amber (special use, e.g., stickers, embroidery)
+
+**Never:**
+- Stretch, compress, rotate, or skew the logo
+- Apply drop shadows or gradients to the logo
+- Place the logo on busy photographic backgrounds without a colour-block underlay
+- Remove the full stop from "TBA."
+- Use unapproved colour combinations
+
+---
+
+### 4.4 — Photography Style
+
+**Hero Imagery:**
+- Athletes in motion — dynamic, decisive moments
+- Low angles looking up (Spino-level power framing)
+- High contrast lighting — deep shadows, single key light source
+- Wet court surfaces, smoke, dust, chalk — texture and physicality
+- Colours in frame should align to brand palette where possible
+
+**Product Imagery:**
+- Studio: Fossil Black or Tar Pit backgrounds exclusively
+- Neon accent lighting (Amber or Teal) to define edges
+- Macro detail shots — sole traction, upper material, lace eyelets
+- Never bright white backgrounds (too clinical, too generic)
+
+**Lifestyle Imagery:**
+- Gyms, outdoor courts, urban environments
+- Post-game intensity — not posed celebration, but earned exhaustion
+- Authentic expressions — grimace, focus, locked-in stare
+- Avoid stock-photography aesthetics
+
+**Video Direction:**
+- Camera movement is deliberate and predatory — slow push-ins, sudden cuts
+- Sound design: bass-heavy, primal percussion, not generic hype music
+- Slow motion for performance moments — traction on a cut, liftoff on a jump
+- Colour grade: desaturated midtones, crushed blacks, pop of amber or teal
+
+---
+
+## 5. TONE OF VOICE & WRITING STYLE
+
+### 5.1 — Core Voice Attributes
+
+| Attribute | What It Sounds Like | What It Never Sounds Like |
+|---|---|---|
+| **Bold** | "This is the most traction-optimised sole we've ever built." | "We think this might be a really good option for..." |
+| **Precise** | "4mm heel drop. Zero compromise." | "A comfortable, well-rounded basketball shoe." |
+| **Predatory** | "The court is territory. Take it." | "Have fun out there!" |
+| **Earned Authority** | "66 million years of evolution. Now yours." | "As a leading brand in the basketball space..." |
+| **Sparse** | Short sentences. White space. Impact. | Long-winded paragraphs with multiple sub-clauses and qualifiers. |
+
+---
+
+### 5.2 — Voice Principles
+
+**Principle 1: Declare, Don't Hedge**  
+TBA does not use qualifiers. We do not say "we believe," "we think," or "we hope." We state. Every sentence earns its place.
+
+✅ *"The Spino Elite is the fastest shoe on the court."*  
+❌ *"We believe the Spino Elite may offer players an enhanced experience on the court."*
+
+---
+
+**Principle 2: Fewer Words Win**  
+If a sentence can be shorter, make it shorter. Brevity signals confidence. Predators don't ramble.
+
+✅ *"Dominate. Full stop."*  
+❌ *"We wanted to create a shoe that would empower you to achieve dominance at every level of your basketball journey."*
+
+---
+
+**Principle 3: The Athlete is the Apex**  
+Our copy always positions the athlete — and by extension, the reader — as the apex predator. TBA is the weapon. The athlete is the predator.
+
+✅ *"You've put in the reps. We built the shoe."*  
+❌ *"TBA is the best shoe for basketball players."*
+
+---
+
+**Principle 4: Use the Lexicon**  
+TBA has a vocabulary. Use it. It builds world.  
+(See Section 13: Glossary of Brand Terms)
+
+---
+
+**Principle 5: Performance Over Lifestyle**  
+We are not a fashion brand. We never lead with aesthetics — we lead with performance, then allow aesthetics to follow naturally.
+
+✅ *"Traction engineered for lateral cuts at full speed. The colourway is just what winning looks like."*  
+❌ *"These fresh kicks look insane on and off the court."*
+
+---
+
+### 5.3 — Punctuation & Formatting Style
+
+- **Em-dashes (—)** are the TBA punctuation mark. Use them for emphasis and impact breaks.
+- **Full stops are intentional and loaded.** Short sentences followed by full stops carry weight. Use them.
+- **Never use ellipses (...)** in brand copy — they suggest uncertainty.
+- **All caps** for taglines, product names in hero positions, and single-word impact statements only.
+- **Exclamation marks** are strictly forbidden in external copy. We don't hype. We declare.
+- **Hashtags** on social: Maximum 3 per post. Always placed at the end. Never mid-copy.
+
+---
+
+## 6. CHANNEL PLAYBOOK
+
+*This section defines how the brand voice adapts — never changes, always adapts — across different channels and audiences.*
+
+---
+
+## 7. INTERNAL COMMUNICATIONS
+
+*For use by: Employees, leadership, internal teams, HR, operations*
+
+### 7.1 — Tone for Internal Comms
+Internal communications should still carry TBA's bold, confident energy — but with **more warmth and directness.** We are a team. Teams operate like a pack. Speak to people like the apex predators we're building this brand for.
+
+- Less formality, but never sloppy.
+- Predator metaphors are appropriate — use them genuinely, not as forced brand-speak.
+- Celebrate wins as a pack. Acknowledge losses with accountability.
+
+### 7.2 — Internal Email Templates
+
+**Internal Announcement — Format:**
+```
+Subject: [ANNOUNCEMENT] — [Clear, Direct Subject Line]
+
+[No preamble. Get to the point immediately.]
+
+[Body: 2–4 short paragraphs. Bullet points for action items only.]
+
+[Close with a single declarative sentence — no "thanks for your continued support" language.]
+
+TBA.
+[Name / Team]
+```
+
+**Internal Update — Format:**
+```
+Subject: [UPDATE] — [Topic]
+
+[Status in one sentence.]
+[What changed.]
+[What it means for the team.]
+[What's next / what you need from them.]
+
+TBA.
+[Name]
+```
+
+### 7.3 — Internal Messaging Principles
+- Do not use corporate filler language: *"circle back," "synergies," "bandwidth," "touch base"*
+- Be direct about problems. TBA culture is apex — we don't hide from weak spots, we evolve past them.
+- Recognise performance specifically. Not "great job" — say *what* was great and *why* it mattered.
+
+---
+
+## 8. EXTERNAL COMMUNICATIONS
+
+*For use by: Marketing, PR, partnerships, customer service, retail*
+
+### 8.1 — Tone for External Comms
+Bold. Authoritative. Athlete-first. We speak *to* the athlete, not *at* the market.
+
+External communications always assume the reader is:
+- Serious about their game
+- Has high standards and can smell inauthenticity
+- Responds to performance data, not lifestyle aspirations
+- Is already competing — we are not recruiting them into sport, we are equipping them for it
+
+### 8.2 — Press Release Format
+```
+FOR IMMEDIATE RELEASE
+
+[HEADLINE IN ALL CAPS — BOLD, SHORT, DECLARATIVE]
+
+[SUBHEAD: Single sentence. The essential context.]
+
+[Location, Date] — [Opening paragraph: The news, why it matters, the scale of it. 3 sentences max.]
+
+[Body paragraph 1: The performance story. What this does for the athlete.]
+[Body paragraph 2: The science or design story. Credibility layer.]
+[Body paragraph 3: Quote from spokesperson — sharp, brand-voice aligned. No corporate speak.]
+
+[Boilerplate: Standard TBA company description — see Section 2.2 Short-Form Brand Story]
+
+Contact:
+[Name] | [Title] | [Email] | [Phone]
+```
+
+**Spokesperson Quote Style for Press:**
+> *"The Spino Claw II doesn't ask permission. It takes the court."* — [Name], [Title], TBA.
+
+---
+
+## 9. LINKEDIN GUIDELINES
+
+*Platform context: Professional audience, athletes, coaches, industry, media, investors, potential partners and retail buyers.*
+
+### 9.1 — LinkedIn Tone
+LinkedIn is TBA's most **professional-facing** channel, but it should never read like standard corporate content. We bring the brand's authority here — with slightly more depth and strategic framing.
+
+Think: **A dominant athlete post-game.** Not boastful. Just certain. Willing to share what they know, because they've earned the right to.
+
+### 9.2 — LinkedIn Post Formats
+
+**FORMAT A — Performance Insight Post**
+```
+[Bold opening statement — 1 line. No soft lead-in.]
+
+[2–3 sentences expanding the idea with data or specificity.]
+
+[1 line that connects it to athlete or business truth.]
+
+[Call to action or closing declaration — not a question. A statement.]
+
+#TBAEvolved #ApexPerformance #BasketballFootwear
+```
+
+*Example:*
+> The most dangerous thing in basketball isn't your opponent's speed.
+>
+> It's their traction data. A 0.3-second delay in a lateral cut — caused by sole slip — is the difference between a block and a bucket. We ran 14,000 court-surface simulations before locking the Spino Claw II tread pattern.
+>
+> This is what "performance-first" actually means.
+>
+> The Spino Claw II drops March 14.
+>
+> #TBAEvolved #ApexPerformance #BasketballFootwear
+
+---
+
+**FORMAT B — Brand Story / Thought Leadership**
+```
+[Provocative or contrarian opening statement.]
+
+[Narrative development — 2–4 short paragraphs. The "why."]
+
+[The TBA angle — what we believe, what we built, why it matters.]
+
+[Close with a statement, not a prompt.]
+
+#TBAEvolved [1–2 relevant hashtags]
+```
+
+---
+
+**FORMAT C — Product / Launch Post**
+```
+[Product name — all caps. Nothing before it.]
+
+[One performance claim. Specific. Data-backed if possible.]
+
+[3–5 bullet points of key performance features — written as predator capabilities:]
+— [Feature: what it does in real game terms]
+— [Feature]
+— [Feature]
+
+[Drop date / availability line.]
+
+[Link in comments — always note this.]
+
+#TBAEvolved #[ProductHashtag]
+```
+
+### 9.3 — LinkedIn Rules
+- **Never start with "Excited to announce..."** — TBA doesn't get excited. TBA delivers.
+- **No engagement bait** — no "agree or disagree?" polls, no "what do you think?" closes
+- Ideal post length: 150–250 words. Never exceed 400 words.
+- Images: Always include. Product, athlete in action, or branded quote card.
+- Frequency: 3–4 posts per week. Consistency > volume.
+- Comments: Always respond. Keep responses sharp, single-sentence when possible.
+
+---
+
+## 10. WHATSAPP / MESSAGING GUIDELINES
+
+*Platform context: Direct athlete outreach, team group chats, community notifications, retail partner updates, customer service*
+
+### 10.1 — WhatsApp Tone
+WhatsApp is the most human-to-human channel TBA operates. The voice shifts from **broadcast-authoritative** to **one-on-one predator mentality** — like a coach or a training partner who knows their stuff and doesn't waste words.
+
+- Still no filler language
+- Shorter. More direct. Personality allowed.
+- Emojis: Permitted. Sparingly. Anchored in the brand. Approved emoji set: 🦕 ⚡ 🔥 🏀 ⬛ (fossil black square) 🟠 (amber circle)
+- Never use: 🎉 💯 😍 🙌 — these are lifestyle brand emojis, not apex predator energy
+
+### 10.2 — WhatsApp Message Templates
+
+**Product Drop Alert:**
+```
+TBA. Drop incoming.
+
+[Product Name].
+[One-line performance hook.]
+[Date. Time. Link or "More details soon."]
+
+⬛🟠 [TBA.]
+```
+
+**Community / Athlete Outreach:**
+```
+Yo [Name] —
+
+[Reason for the message. Direct. No preamble.]
+
+[Ask or info — one thing only.]
+
+Hit me back.
+[Name], TBA.
+```
+
+**Retail Partner Update:**
+```
+[Partner Name] —
+
+[Update in one sentence.]
+[What you need from them, if anything.]
+[Timeline.]
+
+TBA. [Contact Name]
+```
+
+### 10.3 — WhatsApp Rules
+- Messages should never be more than 5–7 lines
+- One topic per message — do not bundle multiple asks
+- Business accounts: Profile image = Spino sail icon on Fossil Black. Display name = "TBA." (with full stop)
+- Response time expectation: Within 4 hours during business hours
+
+---
+
+## 11. EMAIL GUIDELINES
+
+### 11.1 — External Marketing Email
+
+**Structural Template:**
+```
+[PRE-HEADER TEXT: 85 characters max. The hook. No full stop — it reads as truncated intentionally.]
+
+[HEADER IMAGE: Product or athlete. Dark background. Brand palette.]
+
+[HERO HEADLINE: All caps. 4–7 words. Full stop at end.]
+
+[SUBHEAD: 1 sentence. The performance claim.]
+
+[BODY COPY: 2–3 paragraphs max. Short sentences. Performance-first framing.]
+
+[CTA BUTTON: 3 words max. Active verb. All caps. Amber background, Fossil Black text.]
+Examples: "TAKE THE COURT" / "GET EQUIPPED" / "CLAIM YOURS"
+
+[FOOTER: Brand address | Unsubscribe | Social links | TBA. logo — Bone White on Fossil Black]
+```
+
+**Subject Line Rules:**
+- 30–50 characters
+- No emojis in subject lines
+- No clickbait — TBA subject lines declare, they don't tease weakly
+- Never use "Re:" or "Fwd:" as fake familiarity tactics
+
+*Approved Subject Line Formulas:*
+- `[PRODUCT NAME]. Drop Date. What You Need to Know.`
+- `The court doesn't wait. Neither should you.`
+- `This is what evolution looks like.`
+- `[SPECIFIC PERFORMANCE STAT] — We built the shoe for it.`
+
+---
+
+### 11.2 — Transactional / Customer Email
+
+```
+Subject: Your order is [status]. TBA.
+
+[Greeting: First name only. No "Dear" or "Hello."]
+
+[Status update: One sentence.]
+
+[Order details: Clean, minimal table format]
+
+[Next step or tracking info]
+
+[Closing: Short. Human. Not corporate.]
+"The Spino Claw IIs are on their way. The court won't know what hit it."
+
+TBA.
+[Customer Experience Team]
+```
+
+---
+
+### 11.3 — Partnership / B2B Email
+
+```
+Subject: [Clear, specific subject] — TBA.
+
+[First name] —
+
+[Context sentence — why you're writing, referencing shared ground if applicable.]
+
+[The ask or proposition — 2–3 sentences. Specific. No vague "collaboration opportunities."]
+
+[Why it matters to them — athlete reach, product credibility, performance data.]
+
+[Clear next step — a specific call, date, document.]
+
+[Sign-off: Name, title, TBA. — never "Kind regards" or "Best wishes"]
+```
+
+---
+
+## 12. WHAT WE NEVER DO
+
+These are absolute restrictions for the TBA brand. Any content that violates these should be revised before publishing.
+
+### 12.1 — Voice & Copy Don'ts
+- ❌ Use exclamation marks in external copy
+- ❌ Use ellipses (...) — they imply hesitation
+- ❌ Say "excited to announce" or any variant
+- ❌ Use the phrase "basketball journey" — we don't do journey framing, we do territory framing
+- ❌ Start with "We at TBA..." — put the athlete or the product first
+- ❌ Use lifestyle-first framing: "looks great on and off the court"
+- ❌ Use superlatives without evidence: "the best shoe ever made"
+- ❌ Use corporate jargon: synergy, leverage (as a verb), bandwidth, circle back
+- ❌ Write "TBA" without the full stop in official brand materials (the wordmark is "TBA.")
+
+### 12.2 — Visual Don'ts
+- ❌ White (#FFFFFF) backgrounds anywhere
+- ❌ Soft pastels or muted, washed-out tones
+- ❌ Clipart, cartoonish, or playful dinosaur imagery (we are serious)
+- ❌ Generic stock photography (smiling athletes, generic team huddles)
+- ❌ Gradients on the logo
+- ❌ More than three colours in a single graphic (outside of photography)
+- ❌ Therizinosaurus imagery in a playful or non-serious context
+
+### 12.3 — Strategic Don'ts
+- ❌ Position TBA as a lifestyle or fashion brand — performance first, always
+- ❌ Use celebrity culture references unrelated to basketball performance
+- ❌ Mock competitors by name — dominance is shown, not proclaimed through comparison
+- ❌ Over-use the dinosaur metaphor until it becomes a joke — it's a serious brand anchor, not a gimmick
+
+---
+
+## 13. GLOSSARY OF BRAND TERMS
+
+*This vocabulary is part of TBA's brand world. Use these terms consistently across all communications.*
+
+| Term | Definition | Usage |
+|---|---|---|
+| **The Court** | Always capitalised. TBA's sacred territory. | "The Court is where you prove it." |
+| **Apex** | The top position. Always earned, never given. | "Apex performance starts with the sole." |
+| **Evolved / Evolution** | TBA's technology and athlete development frame. Not used casually. | "Evolved sole architecture." |
+| **Territory** | What the athlete owns on The Court. | "Take your territory." |
+| **Extinction** | Losing. Becoming irrelevant. What TBA protects against. | "We didn't survive 66 million years to go extinct on The Court." |
+| **The Spino Mentality** | Playing with precision, dominance, and adaptation. | "That's Spino Mentality right there." |
+| **Theri Test** | Any serious challenge or competitive obstacle. | "Every game is a Theri Test." |
+| **Pack** | TBA's internal team and athlete community. | "The pack doesn't leave anyone behind." |
+| **The Sail** | Metaphor for rising above — referencing Spino's dorsal sail. | "Raise the sail." |
+| **Bone-Built** | Referring to TBA product durability and structural integrity. | "Bone-built for the long season." |
+| **Prehistoric Performance** | TBA's proprietary tech language for its cushioning / traction systems (exact tech names TBD). | "Prehistoric Performance cushioning." |
+| **TBA.** | Always with full stop. The brand name is itself a declaration. | "TBA. The matter is settled." |
+
+---
+
+## 14. AI AGENT PROMPT GUIDANCE
+
+*This section is written specifically to guide the AI communications agent using this document as a knowledge base.*
+
+### 14.1 — Agent Role Definition
+You are TBA.'s media and corporate communications AI agent. You write, review, and advise on all brand communications across LinkedIn, WhatsApp, email (internal and external), press, and partnership channels.
+
+Your north star is this document. Every piece of copy you produce must be:
+1. Consistent with TBA.'s voice (Bold, Precise, Predatory, Earned Authority, Sparse)
+2. Appropriate to the channel (see Section 6 onwards)
+3. Rooted in the brand narrative (Spinosaurus hero, Therizinosaurus antagonist, The Court as territory)
+4. Visually guided by the colour, typography, and tone rules outlined here
+
+### 14.2 — Agent Decision Framework
+
+When producing any piece of content, run this checklist:
+
+**CHANNEL CHECK:**
+- [ ] What channel is this for?
+- [ ] What is the audience (internal, external, B2B, B2C, athlete, media)?
+- [ ] What format does Section 6–11 specify for this channel?
+
+**VOICE CHECK:**
+- [ ] Does this copy declare rather than hedge?
+- [ ] Is it athlete-first or brand-first? (Should be athlete-first)
+- [ ] Does it use TBA lexicon where appropriate? (See Section 13)
+- [ ] Does it pass the "12.1 Copy Don'ts" review?
+
+**NARRATIVE CHECK:**
+- [ ] Is the performance message primary?
+- [ ] Is the dinosaur narrative used meaningfully, not gimmickly?
+- [ ] Does the content serve TBA.'s positioning as an apex performance brand?
+
+### 14.3 — Agent Persona
+When the agent operates in "brand voice mode," it should write as if it is the brand's most senior, most confident communications officer — someone who has internalised TBA.'s culture completely. Not robotic. Not sycophantic. **Certain. Spare. Powerful.**
+
+### 14.4 — Agent Escalation Rules
+The agent should flag for human review before publishing:
+- Any content that references real athletes by name
+- Any crisis communications or public statements in response to negative press
+- Any content that uses Therizinosaurus imagery in a novel or untested way
+- Any partnership or co-brand content
+- Any content that makes specific performance claims requiring verification (e.g., specific test data, lab results)
+
+### 14.5 — Sample Agent Input/Output Examples
+
+**Input:** "Write a LinkedIn post about our new shoe launch for the Spino Claw II"
+**Output should follow:** Section 9.2, Format C — Product/Launch Post. Bold. Performance specs. Amber CTA energy. No exclamation marks. End with #TBAEvolved.
+
+**Input:** "Write a WhatsApp message to a retail partner about delivery delays"
+**Output should follow:** Section 10.2, Retail Partner Update template. Direct. One topic. No filler. Short.
+
+**Input:** "Draft an internal email to the team about a bad quarter"
+**Output should follow:** Section 7.2, Internal Update format. Honest. Accountable. No hedging. Frame it as a Theri Test — the obstacle is identified, Spino Mentality is the response.
+
+---
+
+## DOCUMENT CONTROL
+
+| Field | Detail |
+|---|---|
+| **Document Title** | TBA. Brand Guidelines v1.0 |
+| **Version** | 1.0 |
+| **Status** | Active |
+| **Owner** | Marketing & Brand, TBA. |
+| **Audience** | Internal teams, AI communications agent, approved agency partners |
+| **Review Cycle** | Quarterly |
+| **Last Updated** | February 2026 |
+
+---
+
+*TBA. Brand Guidelines — Theropod Basketball Association*  
+*Evolved to Dominate.*
+
+---
